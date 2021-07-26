@@ -51,9 +51,9 @@ messages between Blynk mobile application and various microcontroller boards and
 
 **Download latest server build [here](https://github.com/Peterkn2001/blynk-server/releases).**
 
-[![GitHub version](https://img.shields.io/github/release/blynkkk/blynk-server.svg)](https://github.com/blynkkk/blynk-server/releases/latest)
-[![GitHub download](https://img.shields.io/github/downloads/blynkkk/blynk-server/total.svg)](https://github.com/blynkkk/blynk-server/releases/latest)
-[ ![Build Status](https://travis-ci.org/blynkkk/blynk-server.svg?branch=master)](https://travis-ci.org/blynkkk/blynk-server)
+[![GitHub version](https://img.shields.io/github/release/Peterkn2001/blynk-server.svg)](https://github.com/Peterkn2001/blynk-server/releases/latest)
+[![GitHub download](https://img.shields.io/github/downloads/Peterkn2001/blynk-server/total.svg)](https://github.com/Peterkn2001/blynk-server/releases/latest)
+[ ![Build Status](https://travis-ci.org/Peterkn2001/blynk-server.svg?branch=master)](https://travis-ci.org/Peterkn2001/blynk-server)
 
 ## Requirements
 - Java 8/11 required (OpenJDK, Oracle) 
