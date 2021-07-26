@@ -49,7 +49,7 @@ If you need more information, please follow these links:
 Blynk Server is an Open-Source [Netty](https://github.com/netty/netty) based Java server, responsible for forwarding 
 messages between Blynk mobile application and various microcontroller boards and SBCs (i.e. Arduino, Raspberry Pi. etc).
 
-**Download latest server build [here](https://github.com/blynkkk/blynk-server/releases).**
+**Download latest server build [here](https://github.com/Peterkn2001/blynk-server/releases).**
 
 [![GitHub version](https://img.shields.io/github/release/blynkkk/blynk-server.svg)](https://github.com/blynkkk/blynk-server/releases/latest)
 [![GitHub download](https://img.shields.io/github/downloads/blynkkk/blynk-server/total.svg)](https://github.com/blynkkk/blynk-server/releases/latest)
@@ -117,7 +117,7 @@ Go [here](https://www.google.com/settings/security/lesssecureapps) and then clic
         
 + Download Blynk server jar file (or manually copy it to Raspberry Pi via ssh and scp command): 
    
-        wget "https://github.com/blynkkk/blynk-server/releases/download/v0.41.16/server-0.41.16-java8.jar"
+        wget "https://github.com/Peterkn2001/blynk-server/releases/download/v0.41.16/server-0.41.16-java8.jar"
 
 + Run the server on default 'hardware port 8080' and default 'application port 9443' (SSL port)
 
